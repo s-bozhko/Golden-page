@@ -601,6 +601,7 @@ span {
 .product {
     padding: 60px 0 57px;
     text-align: center;
+    height: 164px;  
 }
 
 .product_item {
