@@ -1,0 +1,2 @@
+# golden-page
+Golden page
